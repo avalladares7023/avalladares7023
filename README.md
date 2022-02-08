@@ -1,7 +1,7 @@
 - Hi, I’m @avalladares7023
 - I’m a software engineer
 - I’m currently learning at Florida Polytechnic University
-- My LinkedIn is linkedin.com/in/aimee-v-7023
+- My LinkedIn is linkedin.com/in/AimeeValla
 - You can reach me at valladaresaimee694@gmail.com
 
 <!---
