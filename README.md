@@ -2,7 +2,7 @@
 - I’m a software engineer
 - I’m currently learning at Florida Polytechnic University
 - My LinkedIn is linkedin.com/in/aimee-v-7023
-- You can reach me at avalladares7023@floridapoly.edu or valladaresaimee694@gmail.com
+- You can reach me at valladaresaimee694@gmail.com
 
 <!---
 avalladares7023/avalladares7023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
